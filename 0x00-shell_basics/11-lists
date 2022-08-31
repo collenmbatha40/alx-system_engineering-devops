@@ -1,2 +1,5 @@
 #!/bin/bash
 ls -la . .. /boot
+[master 5ab0c96] 11.Lists
+ 1 file changed, 2 insertions(+)
+ create mode 100755 0x00-shell_basics/11-lists
